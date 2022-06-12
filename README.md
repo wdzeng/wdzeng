@@ -25,7 +25,7 @@
 ## GitHub Actions
 
 - [Publish Edge Add-on](https://github.com/wdzeng/edge-addon)  
-  [![version](https://img.shields.io/github/v/release/wdzeng/edge-addon?logo=github&logoColor=white)](https://github.com/wdzeng/edge-addon/release/latest)
+  [![version](https://img.shields.io/github/v/release/wdzeng/edge-addon?logo=github&logoColor=white)](https://github.com/wdzeng/edge-addon/releases/latest)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/edge-addon?color=red)](https://github.com/wdzeng/edge-addon/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022)](#)
 - [Publish Chrome Extension](https://github.com/wdzeng/chrome-extension)  
