@@ -48,7 +48,7 @@
 
 - [Proxy over VPN](https://github.com/wdzeng/proxy-over-vpn)  
   [![version](https://img.shields.io/github/v/release/wdzeng/proxy-over-vpn?logo=github&logoColor=white?sort=semver)](https://github.com/wdzeng/proxy-over-vpn/releases/latest)
-  [![docker](https://img.shields.io/docker/v/hyperbola/proxy-over-vpn?label=docker&logo=docker&logoColor=white)](https://hub.docker.com/repository/docker/hyperbola/proxy-over-vpn)
+  [![docker](https://img.shields.io/docker/v/hyperbola/proxy-over-vpn?label=docker&logo=docker&logoColor=white&sort=semver)](https://hub.docker.com/repository/docker/hyperbola/proxy-over-vpn)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/proxy-over-vpn?color=red)](https://github.com/wdzeng/proxy-over-vpn/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022)](#)
 - [Telegram ID 覬覦者](https://github.com/wdzeng/telegram-id-pretender)  
