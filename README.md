@@ -60,3 +60,8 @@
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/telegram-id-pretender?color=red)](https://github.com/wdzeng/telegram-id-pretender/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022)](#)
   - 搶 Telegram ID 的機器人
+
+## Badges
+
+<a href="https://www.abuseipdb.com/user/85162" target="_blank"><img src="https://www.abuseipdb.com/contributor/85162.svg" alt="abuseipdb" width="300"></a>
+
