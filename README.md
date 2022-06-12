@@ -1,3 +1,6 @@
+[![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=&color=1D9BF0)](https://twitter.com/hyperbola_cc)
+[![telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label=&color=#0088cc)](https://t.me/hyperbola)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=wdzeng&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=wdzeng&theme=vue-dark&hide_border=true)
 
