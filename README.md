@@ -6,7 +6,7 @@
 
 ## Browser Extensions
 
-- [The Content Farm Terminator!](https://github.com/wdzeng/the-content-farm-terminator)  
+- [內容農場終結者](https://github.com/wdzeng/the-content-farm-terminator)  
   [![release](https://img.shields.io/github/v/release/wdzeng/the-content-farm-terminator?logo=github&logoColor=white)](https://github.com/wdzeng/The-Content-Farm-Terminator/releases/latest)
   [![edge add-ons](https://img.shields.io/badge/dynamic/json?prefix=v&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fklphenilpobkhhddphhmkfedbedplpkj&logo=microsoftedge&logoColor=white&label=edge)](https://microsoftedge.microsoft.com/addons/detail/klphenilpobkhhddphhmkfedbedplpkj)
   [![chrome web store](https://img.shields.io/chrome-web-store/v/chhekpgdckchblnfdelceaigmlfbakgn?logo=googlechrome&logoColor=white&label=chrome)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
