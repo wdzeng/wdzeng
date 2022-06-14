@@ -26,7 +26,7 @@
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/pinkoi-coins-bot)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/pinkoi-coins-bot?color=forestgreen)](https://github.com/wdzeng/pinkoi-coins-bot/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
-- [批踢踢登入機器人](https://github.com/wdzeng/ptt-logins-bot)  
+- [批踢踢登入機器人](https://github.com/wdzeng/ptt-login-bot)  
   [![version](https://img.shields.io/github/v/release/wdzeng/ptt-login-bot?logo=github&logoColor=white)](https://github.com/wdzeng/ptt-login-bot/releases/latest)
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/ptt-login-bot)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/ptt-login-bot?color=forestgreen)](https://github.com/wdzeng/ptt-login-bot/commits/)
