@@ -4,7 +4,9 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=wdzeng&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=wdzeng&theme=vue-dark&hide_border=true)
 
-## Browser Extensions
+## Projects
+
+### Browser Extensions
 
 - [內容農場終結者](https://github.com/wdzeng/the-content-farm-terminator)  
   [![release](https://img.shields.io/github/v/release/wdzeng/the-content-farm-terminator?logo=github&logoColor=white)](https://github.com/wdzeng/The-Content-Farm-Terminator/releases/latest)
@@ -14,7 +16,7 @@
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/the-content-farm-terminator?color=forestgreen)](https://github.com/wdzeng/the-content-farm-terminator/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
 
-## Bots
+### Bots
 
 - [蝦皮簽到機器人](https://github.com/wdzeng/shopee-coins-bot)  
   [![version](https://img.shields.io/github/v/release/wdzeng/shopee-coins-bot?logo=github&logoColor=white)](https://github.com/wdzeng/shopee-coins-bot/releases/latest)
@@ -33,7 +35,7 @@
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/ptt-login-bot?color=forestgreen)](https://github.com/wdzeng/ptt-login-bot/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
 
-## GitHub Actions
+### GitHub Actions
 
 - [Publish Edge Add-on](https://github.com/wdzeng/edge-addon)  
   [![version](https://img.shields.io/github/v/release/wdzeng/edge-addon?logo=github&logoColor=white)](https://github.com/wdzeng/edge-addon/releases/latest)
@@ -48,7 +50,7 @@
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/firefox-addon?color=forestgreen)](https://github.com/wdzeng/firefox-addon/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
 
-## Tools
+### Tools
 
 - [Proxy over VPN](https://github.com/wdzeng/proxy-over-vpn)  
   [![version](https://img.shields.io/github/v/release/wdzeng/proxy-over-vpn?logo=github&logoColor=white?sort=semver)](https://github.com/wdzeng/proxy-over-vpn/releases/latest)
@@ -60,6 +62,14 @@
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/telegram-id-pretender)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/telegram-id-pretender?color=forestgreen)](https://github.com/wdzeng/telegram-id-pretender/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
+
+## Contributions to Open Source
+
+- [VS Code devcontainer settings update](https://github.com/microsoft/vscode-dev-containers/pull/962)
+- [Fail2ban bug report](https://github.com/fail2ban/fail2ban/issues/3293)
+- [Squid for Ubuntu Docker Image bug report](https://bugs.launchpad.net/ubuntu-docker-images/+bug/1978272)
+- [Caddy invalid SPF record report](https://caddy.community/t/caddy-forum-registration-confirmation-mail-is-marked-as-spam/16235/3)
+
 
 ## Badges
 
