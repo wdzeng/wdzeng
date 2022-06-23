@@ -8,7 +8,7 @@
 
 ### Browser Extensions
 
-- [內容農場終結者](https://github.com/wdzeng/the-content-farm-terminator)  
+- [The Content Farm Terminator!](https://github.com/wdzeng/the-content-farm-terminator)  
   [![release](https://img.shields.io/github/v/release/wdzeng/the-content-farm-terminator?logo=github&logoColor=white)](https://github.com/wdzeng/The-Content-Farm-Terminator/releases/latest)
   [![edge add-ons](https://img.shields.io/badge/dynamic/json?prefix=v&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fklphenilpobkhhddphhmkfedbedplpkj&logo=microsoftedge&logoColor=white&label=edge)](https://microsoftedge.microsoft.com/addons/detail/klphenilpobkhhddphhmkfedbedplpkj)
   [![chrome web store](https://img.shields.io/chrome-web-store/v/chhekpgdckchblnfdelceaigmlfbakgn?logo=googlechrome&logoColor=white&label=chrome)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
@@ -18,18 +18,18 @@
 
 ### Bots
 
-- [蝦皮簽到機器人](https://github.com/wdzeng/shopee-coins-bot)  
+- [Shopee Coins Bot](https://github.com/wdzeng/shopee-coins-bot)  
   [![version](https://img.shields.io/github/v/release/wdzeng/shopee-coins-bot?logo=github&logoColor=white)](https://github.com/wdzeng/shopee-coins-bot/releases/latest)
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/shopee-coins-bot)
   [![docker-pull](https://img.shields.io/docker/pulls/hyperbola/shopee-coins-bot?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/repository/docker/hyperbola/shopee-coins-bot)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/shopee-coins-bot?color=forestgreen)](https://github.com/wdzeng/shopee-coins-bot/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
-- [Pinkoi 簽到機器人](https://github.com/wdzeng/pinkoi-coins-bot)  
+- [Pinkoi Coins Bot](https://github.com/wdzeng/pinkoi-coins-bot)  
   [![version](https://img.shields.io/github/v/release/wdzeng/pinkoi-coins-bot?logo=github&logoColor=white)](https://github.com/wdzeng/pinkoi-coins-bots/releases/latest)
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/pinkoi-coins-bot)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/pinkoi-coins-bot?color=forestgreen)](https://github.com/wdzeng/pinkoi-coins-bot/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
-- [批踢踢登入機器人](https://github.com/wdzeng/ptt-login-bot)  
+- [PTT Login Bot](https://github.com/wdzeng/ptt-login-bot)  
   [![version](https://img.shields.io/github/v/release/wdzeng/ptt-login-bot?logo=github&logoColor=white)](https://github.com/wdzeng/ptt-login-bot/releases/latest)
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/ptt-login-bot)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/ptt-login-bot?color=forestgreen)](https://github.com/wdzeng/ptt-login-bot/commits/)
