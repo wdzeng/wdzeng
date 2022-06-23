@@ -21,7 +21,6 @@
 - [Shopee Coins Bot](https://github.com/wdzeng/shopee-coins-bot)  
   [![version](https://img.shields.io/github/v/release/wdzeng/shopee-coins-bot?logo=github&logoColor=white)](https://github.com/wdzeng/shopee-coins-bot/releases/latest)
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/shopee-coins-bot)
-  [![docker-pull](https://img.shields.io/docker/pulls/hyperbola/shopee-coins-bot?color=blue&logo=docker&logoColor=white)](https://hub.docker.com/repository/docker/hyperbola/shopee-coins-bot)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/shopee-coins-bot?color=forestgreen)](https://github.com/wdzeng/shopee-coins-bot/commits/)
   [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
 - [Pinkoi Coins Bot](https://github.com/wdzeng/pinkoi-coins-bot)  
