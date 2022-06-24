@@ -14,6 +14,7 @@
   [![chrome web store](https://img.shields.io/chrome-web-store/v/chhekpgdckchblnfdelceaigmlfbakgn?logo=googlechrome&logoColor=white&label=chrome)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
   [![firefox add-ons](https://img.shields.io/amo/v/the-content-farm-terminator?logo=firefox&logoColor=white&label=firefox)](https://addons.mozilla.org/firefox/addon/the-content-farm-terminator/)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/the-content-farm-terminator?color=forestgreen)](https://github.com/wdzeng/the-content-farm-terminator/commits/)
+  [![active user](https://img.shields.io/chrome-web-store/users/chhekpgdckchblnfdelceaigmlfbakgn?color=gold&label=active%20user) ![star](https://img.shields.io/github/stars/wdzeng/the-content-farm-terminator?color=gold)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
   [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
 
 ### Bots
