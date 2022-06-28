@@ -13,8 +13,9 @@
   [![edge add-ons](https://img.shields.io/badge/dynamic/json?prefix=v&query=%24.version&url=https%3A%2F%2Fmicrosoftedge.microsoft.com%2Faddons%2Fgetproductdetailsbycrxid%2Fklphenilpobkhhddphhmkfedbedplpkj&logo=microsoftedge&logoColor=white&label=edge)](https://microsoftedge.microsoft.com/addons/detail/klphenilpobkhhddphhmkfedbedplpkj)
   [![chrome web store](https://img.shields.io/chrome-web-store/v/chhekpgdckchblnfdelceaigmlfbakgn?logo=googlechrome&logoColor=white&label=chrome)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
   [![firefox add-ons](https://img.shields.io/amo/v/the-content-farm-terminator?logo=firefox&logoColor=white&label=firefox)](https://addons.mozilla.org/firefox/addon/the-content-farm-terminator/)
+  [![active user](https://img.shields.io/chrome-web-store/users/chhekpgdckchblnfdelceaigmlfbakgn?color=gold&label=active%20user)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
+  [![star](https://img.shields.io/github/stars/wdzeng/the-content-farm-terminator?color=gold)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/the-content-farm-terminator?color=forestgreen)](https://github.com/wdzeng/the-content-farm-terminator/commits/)
-  [![active user](https://img.shields.io/chrome-web-store/users/chhekpgdckchblnfdelceaigmlfbakgn?color=gold&label=active%20user) ![star](https://img.shields.io/github/stars/wdzeng/the-content-farm-terminator?color=gold)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
   [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
 
 ### Bots
