@@ -1,5 +1,13 @@
+# wdzeng
+
+<img src="https://github.com/wdzeng/fzhong/blob/main/fan-is-not-polite.jpg" height="240">
+
+## Stat
+
 [![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=&color=1D9BF0)](https://twitter.com/hyperbola_cc)
 [![telegram](https://badgen.net/badge/icon/telegram?icon=telegram&label=&color=#0088cc)](https://t.me/hyperbola_cc)
+[![follower](https://img.shields.io/github/followers/wdzeng?color=gold&logo=github)](https://github.com/wdzeng)
+[![star](https://img.shields.io/github/stars/wdzeng?color=gold&logoColor=github)](https://github.com/wdzeng)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=wdzeng&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)  
 ![stats](https://github-readme-streak-stats.herokuapp.com/?user=wdzeng&theme=vue-dark&hide_border=true)
