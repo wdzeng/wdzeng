@@ -1,6 +1,6 @@
 # wdzeng
 
-<img src="https://github.com/wdzeng/fzhong/blob/main/fan-is-not-polite.jpg" height="240">
+<img src="https://github.com/wdzeng/fzhong/blob/main/fan-is-not-polite.jpg" ="459">
 
 ## Stat
 
