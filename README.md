@@ -2,6 +2,8 @@
 
 <img src="https://github.com/wdzeng/fzhong/blob/main/fan-is-not-polite.jpg" width="495">
 
+- [小凡](https://github.com/cycatz)
+
 ## Stat
 
 [![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=&color=1D9BF0)](https://twitter.com/hyperbola_cc)
