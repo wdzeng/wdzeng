@@ -3,6 +3,7 @@
 <img src="https://github.com/wdzeng/fzhong/blob/main/fan-is-not-polite.jpg" width="495">
 
 - [小凡傳送門](https://github.com/cycatz)
+- [小凡開源專案](https://github.com/wdzeng/fzhong)
 
 ## Stat
 
