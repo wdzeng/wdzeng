@@ -27,7 +27,7 @@
   [![active user](https://img.shields.io/chrome-web-store/users/chhekpgdckchblnfdelceaigmlfbakgn?color=gold&label=active%20user)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
   [![star](https://img.shields.io/github/stars/wdzeng/the-content-farm-terminator?color=gold)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/the-content-farm-terminator?color=forestgreen)](https://github.com/wdzeng/the-content-farm-terminator/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
+  [![maintainance](https://img.shields.io/maintenance/yes/2023?color=forestgreen)](#)
 
 ### Bots
 
@@ -35,45 +35,29 @@
   [![version](https://img.shields.io/github/v/release/wdzeng/shopee-coins-bot?logo=github&logoColor=white)](https://github.com/wdzeng/shopee-coins-bot/releases/latest)
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/shopee-coins-bot)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/shopee-coins-bot?color=forestgreen)](https://github.com/wdzeng/shopee-coins-bot/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
+  [![maintainance](https://img.shields.io/maintenance/yes/2023?color=forestgreen)](#)
 - [Pinkoi Coins Bot](https://github.com/wdzeng/pinkoi-coins-bot)  
   [![version](https://img.shields.io/github/v/release/wdzeng/pinkoi-coins-bot?logo=github&logoColor=white)](https://github.com/wdzeng/pinkoi-coins-bots/releases/latest)
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/pinkoi-coins-bot)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/pinkoi-coins-bot?color=forestgreen)](https://github.com/wdzeng/pinkoi-coins-bot/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
-- [PTT Login Bot](https://github.com/wdzeng/ptt-login-bot)  
-  [![version](https://img.shields.io/github/v/release/wdzeng/ptt-login-bot?logo=github&logoColor=white)](https://github.com/wdzeng/ptt-login-bot/releases/latest)
-  [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/ptt-login-bot)
-  [![last commit](https://img.shields.io/github/last-commit/wdzeng/ptt-login-bot?color=forestgreen)](https://github.com/wdzeng/ptt-login-bot/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
+  [![maintainance](https://img.shields.io/maintenance/yes/2023?color=forestgreen)](#)
+
 
 ### GitHub Actions
 
 - [Publish Edge Add-on](https://github.com/wdzeng/edge-addon)  
   [![version](https://img.shields.io/github/v/release/wdzeng/edge-addon?logo=github&logoColor=white)](https://github.com/wdzeng/edge-addon/releases/latest)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/edge-addon?color=forestgreen)](https://github.com/wdzeng/edge-addon/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
+  [![maintainance](https://img.shields.io/maintenance/yes/2023?color=forestgreen)](#)
 - [Publish Chrome Extension](https://github.com/wdzeng/chrome-extension)  
   [![version](https://img.shields.io/github/v/release/wdzeng/chrome-extension?logo=github&logoColor=white)](https://github.com/wdzeng/chrome-extension/releases/latest)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/chrome-extension?color=forestgreen)](https://github.com/wdzeng/chrome-extension/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
+  [![maintainance](https://img.shields.io/maintenance/yes/2023?color=forestgreen)](#)
 - [Publish Firefox Add-on](https://github.com/wdzeng/firefox-addon)  
   [![version](https://img.shields.io/github/v/release/wdzeng/firefox-addon?logo=github&logoColor=white)](https://github.com/wdzeng/firefox-addon/releases/latest)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/firefox-addon?color=forestgreen)](https://github.com/wdzeng/firefox-addon/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
+  [![maintainance](https://img.shields.io/maintenance/yes/2023?color=forestgreen)](#)
 
-### Tools
-
-- [Proxy over VPN](https://github.com/wdzeng/proxy-over-vpn)  
-  [![version](https://img.shields.io/github/v/release/wdzeng/proxy-over-vpn?logo=github&logoColor=white?sort=semver)](https://github.com/wdzeng/proxy-over-vpn/releases/latest)
-  [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/proxy-over-vpn)
-  [![last commit](https://img.shields.io/github/last-commit/wdzeng/proxy-over-vpn?color=forestgreen)](https://github.com/wdzeng/proxy-over-vpn/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
-- [Telegram ID Pretender](https://github.com/wdzeng/telegram-id-pretender)  
-  [![version](https://img.shields.io/github/v/release/wdzeng/telegram-id-pretender?logo=github&logoColor=white&sort=semver)](https://github.com/wdzeng/telegram-id-pretender/releases/latest)
-  [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/telegram-id-pretender)
-  [![last commit](https://img.shields.io/github/last-commit/wdzeng/telegram-id-pretender?color=forestgreen)](https://github.com/wdzeng/telegram-id-pretender/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2022?color=forestgreen)](#)
 
 ## Contributions to Open Source
 
