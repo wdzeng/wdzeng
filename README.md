@@ -27,7 +27,7 @@
   [![active user](https://img.shields.io/chrome-web-store/users/chhekpgdckchblnfdelceaigmlfbakgn?color=gold&label=active%20user)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
   [![star](https://img.shields.io/github/stars/wdzeng/the-content-farm-terminator?color=gold)](https://chrome.google.com/webstore/detail/chhekpgdckchblnfdelceaigmlfbakgn)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/the-content-farm-terminator?color=forestgreen)](https://github.com/wdzeng/the-content-farm-terminator/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2023?color=forestgreen)](#)
+  [![maintainance](https://img.shields.io/maintenance/no/2023)](#)
 
 ### Bots
 
