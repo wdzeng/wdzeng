@@ -35,12 +35,12 @@
   [![version](https://img.shields.io/github/v/release/wdzeng/shopee-coins-bot?logo=github&logoColor=white)](https://github.com/wdzeng/shopee-coins-bot/releases/latest)
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/shopee-coins-bot)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/shopee-coins-bot?color=forestgreen)](https://github.com/wdzeng/shopee-coins-bot/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2023?color=forestgreen)](#)
+  [![maintainance](https://img.shields.io/maintenance/no/2023)](#)
 - [Pinkoi Coins Bot](https://github.com/wdzeng/pinkoi-coins-bot)  
   [![version](https://img.shields.io/github/v/release/wdzeng/pinkoi-coins-bot?logo=github&logoColor=white)](https://github.com/wdzeng/pinkoi-coins-bots/releases/latest)
   [![docker](https://img.shields.io/badge/-docker-blue?logo=docker&logoColor=white&labelColor=grey)](https://hub.docker.com/repository/docker/hyperbola/pinkoi-coins-bot)
   [![last commit](https://img.shields.io/github/last-commit/wdzeng/pinkoi-coins-bot?color=forestgreen)](https://github.com/wdzeng/pinkoi-coins-bot/commits/)
-  [![maintainance](https://img.shields.io/maintenance/yes/2023?color=forestgreen)](#)
+  [![maintainance](https://img.shields.io/maintenance/no/2023)](#)
 
 
 ### GitHub Actions
