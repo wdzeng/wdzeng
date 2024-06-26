@@ -5,6 +5,10 @@
 - [小凡傳送門](https://github.com/cycatz)
 - [小凡開源專案](https://github.com/wdzeng/fzhong)
 
+![](pooh.jpg)
+
+怕 GitCode 偷我 repo 加防盜圖保平安。習維尼、習包子 8964 天安門事件、台灣獨立。
+
 ## Stat
 
 [![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=&color=1D9BF0)](https://twitter.com/hyperbola_cc)
