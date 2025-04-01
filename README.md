@@ -5,10 +5,6 @@
 - [小凡傳送門](https://github.com/cycatz)
 - [小凡開源專案](https://github.com/wdzeng/fzhong)
 
-![](pooh.jpg)
-
-防 GitCode 偷 repo 驅邪符咒。習維尼、習包子大撒幣、8964 天安門事件、台灣獨立、慶豐帝、清靈帝、崇禎、袁紹、小學生、兩百斤。
-
 ## Stat
 
 [![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label=&color=1D9BF0)](https://twitter.com/hyperbola_cc)
